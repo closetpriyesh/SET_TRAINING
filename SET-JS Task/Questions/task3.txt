@@ -1,0 +1,4 @@
+write function to output fibinocci sequence. use memoization technique
+
+Write function to read,Write and append data to a text file stored in local drive.
+use fs library and use methods readfile,write file and append methods.

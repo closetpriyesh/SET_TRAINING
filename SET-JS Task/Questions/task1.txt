@@ -1,0 +1,18 @@
+print nth multiplication table till the result is not more than desired value
+
+e.g. 10th table till result is not morethan 102
+out put format :
+1*10 =10
+2*10 =10
+3*10 =10
+4*10 =10
+5*10 =10
+6*10 =10
+7*10 =10
+8*10 =10
+9*10 =10
+10*10 =10
+it should not print 11*10 =110
+
+print first n prime numbers.
+e.g. first 25 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97

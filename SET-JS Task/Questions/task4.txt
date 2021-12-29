@@ -1,0 +1,9 @@
+read mulipe usernames and passwords from Json File
+e.g. Json
+{
+"testData":[{"username":"user1","password":"pwd1"},{"username":"user2","password":"pwd2"}],
+"envURL:"www.google.com"
+}
+
+Write a function to validate whether given string is a valid email id or not.
+rules for valid email can be referrd at : https://help.returnpath.com/hc/en-us/articles/220560587-What-are-the-rules-for-email-address-syntax-
