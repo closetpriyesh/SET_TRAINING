@@ -1,1 +1,1 @@
-# SET_TRAINING
+This repository contains the solutions for JS, Unit testing and Design Pattern tasks related to SET training!
